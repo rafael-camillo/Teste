@@ -1,6 +1,7 @@
 echo # Teste >> README.md
 git init
-git add README.md
+git add README.mds
 git commit -m "first commit"
 git remote add origin https://github.com/rafael-camillo/Teste.git
 git push -u origin master
+i made a modification on it
